@@ -207,7 +207,6 @@ All reporting activity is saved automatically in `report_log.txt`, for example:
 If you appreciate this tool, you can support the developer:
 
 - 💬 Telegram: [t.me/ebnhussein](https://t.me/Ebn_hussein)
-- 💸 Donate via PayPal: [paypal.me/ebnhussein](https://paypal.me/ebnhussein)  
 - ⭐ Star the repository to show support!
 - 📣 Share the tool with friends who learn automation
 - 🇵🇸 **Donate to Gaza Relief via PayPal:**  
