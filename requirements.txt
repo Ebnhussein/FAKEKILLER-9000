@@ -1,0 +1,4 @@
+selenium>=4.15.0
+colorama>=0.46
+urllib3>=2.0.0
+tqdm>=4.66.0 

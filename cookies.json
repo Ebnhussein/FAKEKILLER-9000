@@ -1,0 +1,90 @@
+[
+  {
+    "domain":".facebook.com",   "expirationDate":17601771080.347216, "hostOnly": false,
+    "httpOnly": true,
+    "name":"b_user",
+    "path":"/",
+    "sameSite":"lax",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 1
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17839372290.079617, "hostOnly": false,
+    "httpOnly": false,
+    "name":"c_user",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 2
+  },
+  {
+    "domain":".facebook.com",   "expirationDate": 178491254.7893, "hostOnly": false,
+    "httpOnly": true,
+    "name":"datr",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 3
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17601772290.574201, "hostOnly": false,
+    "httpOnly": true,
+    "name":"fr",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 4
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17849013370.362256, "hostOnly": false,
+    "httpOnly": true,
+    "name":"ps_l",
+    "path":"/",
+    "sameSite":"lax",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 5
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17849013370.362384, "hostOnly": false,
+    "httpOnly": true,
+    "name":"ps_n",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 6
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17869612290.0839, "hostOnly": false,
+    "httpOnly": true,
+    "name":"sb",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 7
+  },
+  {
+    "domain":".facebook.com",   "expirationDate":17839372290.08193, "hostOnly": false,
+    "httpOnly": true,
+    "name":"xs",
+    "path":"/",
+    "sameSite":"no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId":0,   "value":"YOUR_COOKIE_VALUE_HERE",
+    "id": 8
+  }
+] 

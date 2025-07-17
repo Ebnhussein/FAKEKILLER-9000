@@ -1,0 +1,8 @@
+# FAKEKILLER9000My Account Example File
+# Add your Facebook profile URL here
+
+# Example:
+https://www.facebook.com/your.profile.url
+
+# Note: This is used for friend reporting mode
+# Replace with your actual Facebook profile URL 

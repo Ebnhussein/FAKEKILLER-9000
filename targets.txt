@@ -1,0 +1,9 @@
+# FAKEKILLER 9000 - Targets Example File
+# Add Facebook profile URLs here (one per line)
+
+# Example targets:
+https://www.facebook.com/profile1
+https://www.facebook.com/profile2
+https://www.facebook.com/profile3
+# Note: Replace with actual target URLs
+# Each URL should be on a separate line 
