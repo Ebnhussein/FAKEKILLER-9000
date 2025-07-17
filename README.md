@@ -138,18 +138,6 @@ You will be prompted to:
 
 ---
 
-## ⚙️ Script Configuration
-
-Adjust config inside the script:
-
-```python
-MAX_REPORTS_PER_TARGET = 30
-SAFE_REPORT_LIMIT = 8
-CHROMEDRIVER_BIN = "./chromedriver"
-```
-
----
-
 ## 📊 Logging
 
 All reporting activity is saved automatically in `report_log.txt`, for example:
