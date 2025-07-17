@@ -122,8 +122,6 @@ FAKEKILLER-9000/
 ├── report_log.txt            # Log of script execution (auto-created)
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # License info
-├── CONTRIBUTING.md           # Contribution rules
-├── SECURITY.md               # Security tips
 └── README.md                 # This file
 ```
 
