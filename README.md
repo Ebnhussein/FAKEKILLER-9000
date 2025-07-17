@@ -136,13 +136,7 @@ All activities are logged to `report_log.txt`:
 - `❌ Cookies are invalid` - Update cookies
 - `⚠️ Security check detected` - Manual verification needed
 - `❌ Target not found` - Check file format
-
-## 🎨 Interface Features
-
-- **Animated Banner** - Professional ASCII art
-- **Color-coded Messages** - Easy status identification
-- **Progress Indicators** - Real-time progress tracking
-- **Interactive Prompts** - User-friendly interface
+  
 
 ## 📈 Performance
 
@@ -185,9 +179,9 @@ This project is for educational purposes only. No commercial use allowed.
 ## 🍪 How to Extract Facebook Cookies (Chrome & Firefox) and Use Them with the Script
 
 ### Step 1: Install EditThisCookie Extension
-- Install [EditThisCookie](https://www.editthiscookie.com/) on your browser:
-  - [Chrome Web Store link](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
-  - [Firefox Add-ons link](https://addons.mozilla.org/en-US/firefox/addon/edit-this-cookie/)
+- Install [EditThisCookie] on your browser:
+  - [Chrome Web Store link](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)
+  - [Firefox Add-ons link](https://addons.mozilla.org/en-US/firefox/addon/editthiscookie-lastest-edition/)
 - The extension is available for both Google Chrome and Mozilla Firefox.
 
 **Screenshot:**
