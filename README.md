@@ -39,22 +39,39 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 ---
 
-## 🍪 Step 2: Install & Use EditThisCookie Extension
+## 💾 Step 2: Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/FAKEKILLER-9000.git
+cd FAKEKILLER-9000
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 🔧 Configuration
+
+### 🍪 Step 1: Install & Use EditThisCookie
+
+To generate the cookies required for the script:
 
 1. Install the extension:
 
    - Chrome: [EditThisCookie](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)
    - Firefox: [EditThisCookie](https://addons.mozilla.org/en-US/firefox/addon/editthiscookie-lastest-edition/)
 
-2. Log in to Facebook using your browser.
+2. Open Facebook in your browser and log in.
 
-3. Click the **EditThisCookie** icon beside the URL bar.
+3. Click the **EditThisCookie** icon beside the address bar.
 
-4. Export your cookies using the **Export/Copy** button.
+4. Click the **Export/Copy** button to copy your Facebook cookies.
 
-5. Open the `cookies.json` file and:
-   - **Delete everything inside it**
-   - Paste the exported cookies directly (in JSON format):
+5. Open the `cookies.json` file located in the project folder.
+
+6. **Delete everything inside it**, and paste your cookies directly (in JSON format):
 
 ```json
 [
@@ -68,15 +85,23 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 ---
 
-## 💾 Step 3: Installation
+### `targets.txt`
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/FAKEKILLER-9000.git
-cd FAKEKILLER-9000
+Add your target Facebook profiles (one per line):
 
-# Install dependencies
-pip install -r requirements.txt
+```
+https://www.facebook.com/target.profile1
+https://www.facebook.com/target.profile2
+```
+
+---
+
+### `my_friend_account.txt` (optional)
+
+Use this if you want to report **as a friend**:
+
+```
+https://www.facebook.com/your.friend.profile
 ```
 
 ---
@@ -93,42 +118,6 @@ FAKEKILLER-9000/
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # License info
 └── README.md                 # This file
-```
-
----
-
-## 🔧 Configuration
-
-### `cookies.json`
-
-Paste your cookies **directly** inside this file after deleting its content.
-
-```json
-[
-  {"name": "c_user", "value": "123456789", "domain": ".facebook.com", "path": "/", "secure": true},
-  {"name": "xs", "value": "abcdefg", "domain": ".facebook.com", "path": "/", "secure": true}
-]
-```
-
----
-
-### `targets.txt`
-
-One target Facebook profile URL per line:
-
-```
-https://www.facebook.com/target.profile1
-https://www.facebook.com/target.profile2
-```
-
----
-
-### `my_friend_account.txt` (optional)
-
-Used when reporting "As a friend":
-
-```
-https://www.facebook.com/your.friend.profile
 ```
 
 ---
