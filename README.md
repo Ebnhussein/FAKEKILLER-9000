@@ -1,4 +1,4 @@
-# 🔥 FAKEKILLER 9000 - Vengeance Edition
+# 🔥 FAKEKILLER 9000
 
 > **⚠️ EDUCATIONAL PURPOSE ONLY - USE AT YOUR OWN RISK**
 
