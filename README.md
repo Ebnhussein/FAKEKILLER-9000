@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-Educational-blue)
+![Python](https://img.shields.io/badge/python-3.7%2B-green)
+![Status](https://img.shields.io/badge/status-Alpha-orange)
+
 # 🔥 FAKEKILLER 9000
 
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY - USE AT YOUR OWN RISK**
@@ -33,9 +37,10 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 ### ✅ 1. Prerequisites
 
-- Python ≥ 3.7
-- Chrome or Chromium browser
-- A Facebook account and valid cookies
+- Python ≥ 3.7  
+- Chrome or Chromium browser  
+- A Facebook account and valid cookies  
+- **Set Facebook language to English (US)** ⚠️
 
 ---
 
@@ -60,7 +65,7 @@ To generate the cookies required for the script:
 
 1. Install the extension:
 
-   - Chrome: [EditThisCookie](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)
+   - Chrome: [EditThisCookie](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)  
    - Firefox: [EditThisCookie](https://addons.mozilla.org/en-US/firefox/addon/editthiscookie-lastest-edition/)
 
 2. Open Facebook in your browser and log in.
@@ -117,6 +122,8 @@ FAKEKILLER-9000/
 ├── report_log.txt            # Log of script execution (auto-created)
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # License info
+├── CONTRIBUTING.md           # Contribution rules
+├── SECURITY.md               # Security tips
 └── README.md                 # This file
 ```
 
@@ -130,9 +137,9 @@ python "FAKEKILLER 9000.py"
 
 You will be prompted to:
 
-- Select headless or visible browser
-- Choose report type: "Me" or "A friend"
-- Set number of reports per target
+- Select headless or visible browser  
+- Choose report type: "Me" or "A friend"  
+- Set number of reports per target  
 
 📝 The script **automatically creates `report_log.txt`** in the same directory to track all actions and statuses.
 
@@ -156,38 +163,50 @@ All reporting activity is saved automatically in `report_log.txt`, for example:
 | ❌ Invalid Cookies         | Refresh your `cookies.json`             |
 | ⚠️ Security Check         | Manual Facebook verification required   |
 | ❌ Target Not Found        | Check format in `targets.txt`           |
+| ⚠️ Facebook not English    | Change Facebook language to English     |
 
 ---
 
 ## 🧪 Performance
 
-- 💨 **Fast** execution
-- 🧠 **Smart retries**
-- 📉 **Low resource use**
+- 💨 **Fast** execution  
+- 🧠 **Smart retries**  
+- 📉 **Low resource use**  
 - ✅ **Stable operation**
 
 ---
 
 ## 🔐 Security Tips
 
-- Use **VPN or proxy** to protect your IP
-- Avoid using your **main account**
-- Respect **Facebook rate limits**
+- Use **VPN or proxy** to protect your IP  
+- Avoid using your **main account**  
+- Respect **Facebook rate limits**  
+- Don’t share your cookies publicly  
+- Delete logs after use if needed
+
+---
+
+## 🧾 CI / Workflow Support
+
+- GitHub Actions CI included under `.github/workflows/python.yml`
+- Automatically runs install & dry-run on push
+- Helps ensure clean and working versions of the script
 
 ---
 
 ## 📝 Legal
 
-- Use responsibly under **local laws**
-- You are **responsible** for your actions
-- This tool is for **educational, non-commercial use only**
+- Use responsibly under **local laws**  
+- You are **responsible** for your actions  
+- This tool is for **educational, non-commercial use only**  
+- No liability, no warranty — see `LICENSE.md`
 
 ---
 
 ## 🤝 Credits & Support
 
-- 👨‍💻 Developer: **Ebn Hussein**
-- 🌐 Facebook: [fb.com/Ebnhusssein](https://www.facebook.com/Ebnhusssein)
+- 👨‍💻 Developer: **Ebn Hussein**  
+- 🌐 Facebook: [fb.com/Ebnhusssein](https://www.facebook.com/Ebnhusssein)  
 - 📦 Version: **Vengeance Edition 2025**
 
 > _"With great power comes great responsibility"_ 🕸️
@@ -197,5 +216,3 @@ All reporting activity is saved automatically in `report_log.txt`, for example:
 ## 🇵🇸 Free Palestine
 
 **🇵🇸 Free Palestine – We stand with justice.**
-
----
