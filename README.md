@@ -210,8 +210,7 @@ If you appreciate this tool, you can support the developer:
 - 💸 Donate via PayPal: [paypal.me/ebnhussein](https://paypal.me/ebnhussein)  
 - ⭐ Star the repository to show support!
 - 📣 Share the tool with friends who learn automation
-- 🇵🇸 **Donate to Gaza Relief via PayPal:**  
-  [Donate to Connecting Gaza](https://www.paypal.com/donate/?hosted_button_id=23RZ8GYXVMKZU) – your contribution will go directly towards **humanitarian aid in Gaza** :contentReference[oaicite:2]{index=2}
+- 🇵🇸 **Donate to Gaza Relief via PayPal:**[Donate to Connecting Gaza]** (https://www.paypal.com/donate/?hosted_button_id=23RZ8GYXVMKZU) – your contribution will go directly towards **humanitarian aid in Gaza**
 
 Your support helps sustain educational tools *and* provides real-world impact in Gaza.
 
