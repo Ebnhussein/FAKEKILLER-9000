@@ -182,13 +182,6 @@ All reporting activity is saved automatically in `report_log.txt`, for example:
 - Don’t share your cookies publicly  
 - Delete logs after use if needed
 
----
-
-## 🧾 CI / Workflow Support
-
-- GitHub Actions CI included under `.github/workflows/python.yml`
-- Automatically runs install & dry-run on push
-- Helps ensure clean and working versions of the script
 
 ---
 
@@ -206,6 +199,23 @@ All reporting activity is saved automatically in `report_log.txt`, for example:
 - 👨‍💻 Developer: **Ebn Hussein**  
 - 🌐 Facebook: [fb.com/Ebnhusssein](https://www.facebook.com/Ebnhusssein)  
 - 📦 Version: **Vengeance Edition 2025**
+
+---
+
+## ☕ Support the Project
+
+If you appreciate this tool, you can support the developer:
+
+- 💬 Telegram: [t.me/ebnhussein](https://t.me/Ebn_hussein)
+- 💸 Donate via PayPal: [paypal.me/ebnhussein](https://paypal.me/ebnhussein)  
+- ⭐ Star the repository to show support!
+- 📣 Share the tool with friends who learn automation
+- 🇵🇸 **Donate to Gaza Relief via PayPal:**  
+  [Donate to Connecting Gaza](https://www.paypal.com/donate/?hosted_button_id=23RZ8GYXVMKZU) – your contribution will go directly towards **humanitarian aid in Gaza** :contentReference[oaicite:2]{index=2}
+
+Your support helps sustain educational tools *and* provides real-world impact in Gaza.
+
+---
 
 > _"With great power comes great responsibility"_ 🕸️
 
