@@ -49,7 +49,9 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 # Clone the repo
 ```bash
-git clone https://github.com/yourusername/FAKEKILLER-9000.git
+git clone https://github.com/Ebnhussein/FAKEKILLER-9000.git
+```
+```bash
 cd FAKEKILLER-9000
 ```
 # Install dependencies
