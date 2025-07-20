@@ -137,7 +137,8 @@ python "FAKEKILLER 9000.py"
 You will be prompted to:
 
 - 🔘 Choose browser mode: Headless or Visible
-- ![Browser Mode](docs/screenshots/browser_mode_selection.png)
+![Browser Mode](docs/screenshots/browser_mode_selection.png)
+
 - 🎯 Choose reporting type: As Me or As a Friend
 ![Reporting](docs/screenshots/reporting_parameters.png)
   
