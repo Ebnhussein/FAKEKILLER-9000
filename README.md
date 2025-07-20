@@ -134,7 +134,7 @@ FAKEKILLER-9000/
 ## 🎮 Running the Script
 
 ```bash
-python3 FAKEKILLER 9000.py
+python3 "FAKEKILLER 9000.py"
 ```
 
 You will be prompted to:
