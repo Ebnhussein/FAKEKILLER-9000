@@ -133,11 +133,14 @@ FAKEKILLER-9000/
 ```bash
 python "FAKEKILLER 9000.py"
 ```
-![Browser Mode](docs/screenshots/browser_mode_selection.png)
+
 You will be prompted to:
 
 - 🔘 Choose browser mode: Headless or Visible
+- ![Browser Mode](docs/screenshots/browser_mode_selection.png)
 - 🎯 Choose reporting type: As Me or As a Friend
+![Reporting](docs/screenshots/reporting_parameters.png)
+  
 - 🧮 Enter number of reports per target
 - ✅ Script will start automated reports
 
