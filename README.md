@@ -47,12 +47,13 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 ## 💾 Step 2: Installation
 
-```bash
 # Clone the repo
+```bash
 git clone https://github.com/yourusername/FAKEKILLER-9000.git
 cd FAKEKILLER-9000
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
 ```
 
