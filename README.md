@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/status-Alpha-orange)
 
 # 🔥 FAKEKILLER 9000
+![CLI Interface](docs/screenshots/cli_interface.png)
 
 > ⚠️ **FOR EDUCATIONAL PURPOSES ONLY - USE AT YOUR OWN RISK**
 
@@ -135,12 +136,16 @@ python "FAKEKILLER 9000.py"
 
 You will be prompted to:
 
-- Select headless or visible browser  
-- Choose report type: "Me" or "A friend"  
-- Set number of reports per target  
+- 🔘 Choose browser mode: Headless or Visible
+- 🎯 Choose reporting type: As Me or As a Friend
+- 🧮 Enter number of reports per target
+- ✅ Script will start automated reports
 
 📝 The script **automatically creates `report_log.txt`** in the same directory to track all actions and statuses.
-
+```
+⚠️ Make sure your Facebook account language is set to English (US)
+📶 Use VPN or proxy to protect your IP if needed
+```
 ---
 
 ## 📊 Logging
