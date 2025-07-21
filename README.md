@@ -1,5 +1,6 @@
 ![License](https://img.shields.io/badge/license-Educational-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-green)
+![ChromeDriver](https://img.shields.io/badge/ChromeDriver-Compatible-green)
 ![Status](https://img.shields.io/badge/status-Alpha-orange)
 
 # 🔥 FAKEKILLER 9000
