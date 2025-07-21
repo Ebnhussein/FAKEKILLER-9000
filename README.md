@@ -84,9 +84,9 @@ Follow these steps to get everything working smoothly on a Windows machine:
 1. Copy `chromedriver.exe` into the script folder (where `FAKEKILLER 9000.py` is located).
 2. Also copy `chromedriver.exe` to: `C:\Windows`
 
----
-
 This allows Windows to recognize it as a system-wide command.
+
+---
 
 Open **Command Prompt** or **PowerShell** in the script's folder and run:
 
