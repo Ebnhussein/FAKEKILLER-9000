@@ -119,6 +119,10 @@ pip install -r requirements.txt
 
 ---
 
+> 🛠️ **Note:** The following steps for preparing and running the script work on **both Windows and Linux** systems.
+
+---
+
 ## 🔧 Configuration
 
 ### 🍪 Step 1: Install & Use EditThisCookie
