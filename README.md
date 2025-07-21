@@ -46,7 +46,67 @@ This tool is intended for **EDUCATIONAL PURPOSES ONLY**. Use it responsibly.
 
 ---
 
-## 💾 Step 2: Installation
+## 🖥️ How to Run on Windows
+
+Follow these steps to get everything working smoothly on a Windows machine:
+
+---
+
+## ✅ 1. Install Python
+
+1. Go to the official [Python download page](https://www.python.org/downloads/windows/).
+2. Download the latest **Python 3.x Windows installer** (e.g., `python-3.12.x.exe`).
+3. Run the installer:
+   - ✅ Check the box that says **"Add Python to PATH"**.
+   - Then click **Install Now**.
+
+---
+
+## ✅ 2. Install Google Chrome
+
+1. Download and install **Google Chrome** from:  
+   [https://www.google.com/chrome/](https://www.google.com/chrome/)
+   The script requires Google Chrome (not Edge/Brave/Opera).
+
+---
+
+## ✅ 3. Then download ChromeDriver:
+
+1. Go to this link:  
+   [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
+
+2. Look for the correct version that matches your browser.
+3. Download the correct Windows build, e.g.:  
+   `chromedriver-win64.zip`
+4. Extract it and rename the driver to: `chromedriver.exe`
+
+---
+
+## ✅ 4. Move the ChromeDriver
+
+1. Copy `chromedriver.exe` into the script folder (where `FAKEKILLER 9000.py` is located).
+2. Also copy `chromedriver.exe` to: C:\Windows
+
+---
+
+This allows Windows to recognize it as a system-wide command.
+
+Open **Command Prompt** or **PowerShell** in the script's folder and run:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 💾 How to Run on Linux
+
+# Open Terminal
+
+```bash
+sudo apt update
+   sudo apt install python3
+```
 
 # Clone the repo
 ```bash
