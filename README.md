@@ -64,7 +64,7 @@ Follow these steps to get everything working smoothly on a Windows machine:
 
 ## ✅ 2. Install Google Chrome
 
-1. Download and install **Google Chrome** from:  
+   Download and install **Google Chrome** from:  
    [https://www.google.com/chrome/](https://www.google.com/chrome/)
    The script requires Google Chrome (not Edge/Brave/Opera).
 
@@ -74,11 +74,10 @@ Follow these steps to get everything working smoothly on a Windows machine:
 
 1. Go to this link:  
    [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
-
 2. Look for the correct version that matches your browser.
 3. Download the correct Windows build, e.g.:  
    `chromedriver-win64.zip`
-4. Extract it and rename the driver to: `chromedriver.exe`
+4. Extract it
 
 ---
 
