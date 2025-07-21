@@ -119,7 +119,7 @@ pip install -r requirements.txt
 
 ---
 
-> 🛠️ **Note:** The following steps for preparing and running the script work on **both Windows and Linux** systems.
+## 🛠️ Note: The following steps for preparing and running the script work on *both Windows and Linux* systems.
 
 ---
 
